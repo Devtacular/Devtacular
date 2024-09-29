@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate web developer with a love for c
 ## 🌟 About Me
 
 - 💻 Web Developer | Frontend & Backend Enthusiast
-- 🚀 Currently working on building my personal portfolio template, [WebScape](https://github.com/Devtacular/WebScape)
+- 🚀 Currently working on building my personal portfolio template, [BizLaunch](https://github.com/Devtacular/BizLaunch)
 - 🎨 I love turning ideas into interactive digital experiences using HTML, CSS, JavaScript, and other cool tools
 - 🌱 Always learning something new in the world of web development
 - 💬 Let's connect and collaborate on exciting projects!
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m a passionate web developer with a love for c
 Here are some of my favorite projects:
 
 - [**WebScape**](https://github.com/Devtacular/WebScape) – A personal portfolio template for web developers
-- [**Project 2**](https://github.com/Devtacular/Project2) – Coming soon!
+- [**BizLaunch**](https://github.com/Devtacular/BizLaunch) – A business landing page template for startups
 - [**Project 3**](https://github.com/Devtacular/Project3) – Coming soon!
 
 Check out more projects in my pinned repositories below!
